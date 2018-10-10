@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 n="chage for task2.3"
+=======
+h="new content for task 3"
+>>>>>>> 075f95dfe01bafbbc93ef6ceaad4465d2ead0468
